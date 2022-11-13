@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+ h1{ 
+    color: red;
+ }
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+   }
+  
+  .card-header{
+  background-color:aliceblue;
+  color:black;
+  text-transform: uppercase;
+  }  
+  .card{
+  
+    background-image: linear-gradient(to right top, #6b8cd1, #0fa7e0, #00bfd8, #27d1bf, #84df9f, #99e59c, #aeeb99, #c3f098, #a9f5ac, #8ef8c2, #75fada, #5ffbf1);
+    color:black;
+  }
+  .card-text{
+  text-align: center;
+  font-size: 18px;
+  }
+  
+  img{
+    border: 1px solid white;
+  
+  }
